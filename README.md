@@ -1,4 +1,6 @@
-# JRS React Starter Kit
+# JRS React Starter tutorial
+
+https://facebook.github.io/react/tutorial/tutorial.html#getting-started
 
 This starter kit is only for JRS Coding School
 Students to get their tutorial projects up and
