@@ -5,6 +5,7 @@ import registerServiceWorker from './registerServiceWorker'
 import 'tachyons/css/tachyons.css'
 import { Provider } from 'react-redux'
 import store from './store'
+import './index.css'
 
 ReactDOM.render(
   <Provider store={store}>

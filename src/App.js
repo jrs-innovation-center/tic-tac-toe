@@ -1,12 +1,12 @@
 import React from 'react'
 import { BrowserRouter, Route } from 'react-router-dom'
-import Home from './pages/home'
+import Game from './pages/game'
 
 const App = function(props) {
   return (
     <BrowserRouter>
       <div>
-        <Route exact path="/" component={Home} />
+        <Route exact path="/" component={Game} />
       </div>
     </BrowserRouter>
   )
